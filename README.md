@@ -78,8 +78,6 @@ Example: Loader.exe staged.png dBIT
 
 ---
 
-# Technical Details
-
 ## PNG Chunk Format
 
 Every PNG chunk follows this structure:
