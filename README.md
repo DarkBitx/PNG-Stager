@@ -21,7 +21,7 @@ PNG-Stager
 │   └── Creates a staged PNG with an embedded custom chunk
 │
 └── Loader
-    └── Parses PNG chunks and retrieves embedded data and
+    └── Parses PNG chunks and retrieves embedded data and executes
 ```
 
 ---
@@ -119,5 +119,4 @@ Future research and improvements:
 **DarkBit**
 
 X: https://x.com/DarkBitxx
-
 Telegram: https://t.me/DarkBitx
